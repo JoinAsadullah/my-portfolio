@@ -1,0 +1,36 @@
+{
+  "name": "auth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.14",
+    "@react-three/drei": "^9.65.4",
+    "@react-three/fiber": "^8.12.1",
+    "@react-three/postprocessing": "^2.7.1",
+    "@types/three": "^0.150.2",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "framer-motion": "^10.12.4",
+    "gltfjsx": "^6.1.4",
+    "next": "13.2.4",
+    "postprocessing": "^6.30.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-useanimations": "^2.10.0",
+    "three": "^0.151.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}

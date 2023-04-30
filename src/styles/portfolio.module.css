@@ -1,0 +1,37 @@
+
+.body{
+    height: 100vh;
+    background-image: url(/portfolio/herobackground/tint.svg), url(/portfolio/herobackground/vec6.jpg) ;
+    background-repeat:no-repeat;
+    background-size: cover , cover;
+    background-position: center;
+}
+.hero{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+}
+.hero > div{
+    width: 70%;
+    height: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    background-color: grey;
+    height: 100vh;
+}
+.pallete{
+    color:rgb(241, 243, 249);
+    color: #fff;
+
+    color:rgb(209, 219, 255);
+    color:rgb(233, 236, 255);
+
+    color:#030284;
+    color:#424242;
+    color:#2e2e69;
+    color:rgb(78, 101, 250);
+    color:;
+    #aca6ff
+}
