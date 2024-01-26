@@ -13,3 +13,4 @@ https://my-portfolio-dsev.vercel.app/earth
 
 ![Preview](Screenshot.png)
 
+![Preview](Screenshot2.png)
